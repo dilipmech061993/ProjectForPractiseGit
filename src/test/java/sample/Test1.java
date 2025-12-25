@@ -83,6 +83,6 @@ public class Test1 {
 
 		System.out.println(text);
 		
-		driver.quit();
+		driver.close();
 	}
 }
